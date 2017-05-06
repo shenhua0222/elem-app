@@ -14,6 +14,9 @@
 备注：该项目部署在国外的服务器上，打开可能会有点慢，若求稳定，请按如下命令在本地查看
  
 ``` bash
+# clone repository
+git clone https://github.com/shenhua0222/elem-app.git
+
 # install dependencies
 npm install
  
