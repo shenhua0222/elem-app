@@ -1,6 +1,6 @@
-# e-app
+# 基于webpack + vue + vue-router + express 构建移动端单页应用
  
-> A Vue.js project 
+> 高仿饿了么app，数据是mock出来的
  
  
 ## 项目预览
