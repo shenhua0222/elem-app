@@ -6,7 +6,7 @@
 ## 项目预览
 ----
  
-![](https://github.com/shenhua0222/elem-app//static/img/1494068066.png)
+![](https://github.com/shenhua0222/elem-app/blob/master/static/img/1.jpg)
  
 备注：该项目部署在国外的服务器上，打开可能会有点慢，若求稳定，请按如下命令在本地查看
  
@@ -63,7 +63,8 @@ project
  
     document.documentElement.style.fontSize = document.documentElement.clientWidth / 10 + 'px'
  
-这种方式计算元素的rem值复杂一点，但是有专门的拓展工具，所以使用起来也非常的方便。 参考链接  [https://github.com/amfe/lib-flexible/blob/master/README.md](https://github.com/amfe/lib-flexible/blob/master/README.md)
+这种方式计算元素的rem值复杂一点，但是有专门的拓展工具，所以使用起来也非常的方便。 
+参考链接  [https://github.com/amfe/lib-flexible/blob/master/README.md](https://github.com/amfe/lib-flexible/blob/master/README.md)
 另外，这种布局做出来的效果不兼容微信浏览器，所以最后改用了网易布局方案；
  
   js
