@@ -1,4 +1,4 @@
-# 基于webpack + vue + vue-router + express 构建移动端单页应用
+# 基于vue框架搭建移动端单页应用
  
 > 高仿饿了么app，数据是mock出来的
  
